@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Acme&family=Bangers&family=Noto+Sans+Display&family=Righteous&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+:root{
+    /* font */
+    --main-font: 'Noto Sans Display', sans-serif;
+    /* --h-font: 'Acme', sans-serif; 
+    --e-font: 'Righteous', cursive;  */
+    --p-font: 'Source Code Pro', monospace;
+
+    /* colors */
+    /* --c-main:  #f52072; */
+    --c-main:  #057e86;
+    --c-text: #868686;
+    --c-white: #fff;
+}
